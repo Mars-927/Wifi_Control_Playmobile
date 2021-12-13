@@ -1,2 +1,6 @@
 # Wifi_Control_Playmobile
-基于树莓派的WIFI遥控汽车（JAVA）
+
+### 描述
+
+* 开发环境 ： java
+* 硬件环境：Raspberry Pi 2b
